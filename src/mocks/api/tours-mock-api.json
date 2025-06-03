@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Swiss Alps Adventure",
+    "image": "/assets/swiss-alps-adventure.jpg",
+    "description": "Explore the breathtaking Swiss Alps with guided hikes, scenic train rides, and cozy mountain lodges.",
+    "price": 1500
+  },
+  {
+    "name": "Barcelona City Break",
+    "image": "/assets/barcelona-city-break.jpg",
+    "description": "Enjoy a vibrant city break in Barcelona with visits to Sagrada Familia, Park Güell, and local tapas tours.",
+    "price": 900
+  },
+  {
+    "name": "Greek Island Hopping",
+    "image": "/assets/greek-island-hopping.jpg",
+    "description": "Discover the beauty of the Greek islands with a 7-day cruise visiting Santorini, Mykonos, and Crete.",
+    "price": 1600
+  },
+  {
+    "name": "Paris Getaway",
+    "image": "/assets/paris-getaway.jpg",
+    "description": "Experience the romance of Paris with a 5-day tour including visits to the Eiffel Tower, Louvre Museum, and Seine River cruise.",
+    "price": 1200
+  },
+  {
+    "name": "Italian Riviera Escape",
+    "image": "/assets/italian-riviera-escape.jpg",
+    "description": "Relax along the stunning Italian Riviera with visits to Cinque Terre, Portofino, and Genoa.",
+    "price": 1400
+  },
+  {
+    "name": "Scandinavian Fjords Cruise",
+    "image": "/assets/scandinavian-fjords-cruise.jpg",
+    "description": "Sail through the majestic fjords of Norway with stops in Bergen, Flam, and Geiranger.",
+    "price": 1800
+  }
+]
